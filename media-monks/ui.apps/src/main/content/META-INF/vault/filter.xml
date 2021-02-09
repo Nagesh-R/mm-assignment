@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/apps/media-monks/clientlibs"/>
+    <filter root="/apps/media-monks/components"/>
+    <filter root="/apps/media-monks/dashboards"/>
+    <filter root="/apps/media-monks/i18n"/>
+    <filter root="/apps/msm/media-monks_blueprint" mode="merge"/>
+</workspaceFilter>

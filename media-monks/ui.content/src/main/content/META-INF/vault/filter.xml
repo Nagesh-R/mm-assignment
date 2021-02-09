@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/media-monks" mode="merge"/>
+    <filter root="/content/media-monks" mode="merge"/>
+    <filter root="/content/dam/media-monks" mode="merge"/>
+    <filter root="/content/experience-fragments/media-monks" mode="merge"/>
+</workspaceFilter>
